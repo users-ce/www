@@ -1,0 +1,4 @@
+#!/bin/bash
+DATE=`date`
+echo $DATE
+( for file in /home/www/*com; do echo $file;cd $file; git pull; done )

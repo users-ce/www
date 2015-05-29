@@ -1,0 +1,13 @@
+.vim/*
+.viminfo
+.npm/*
+.bash_history
+log/*
+tmp/*
+.meteor/*
+.meteorite/*
+.meteorsession
+.cache/*
+.nave/*
+.git/*
+*com
